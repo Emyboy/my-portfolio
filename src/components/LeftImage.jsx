@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../images/man.jpg';
+import image from '../images/emy.jpg';
 
 export default () => {
     return(

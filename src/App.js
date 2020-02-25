@@ -15,7 +15,12 @@ import Header from './components/Header';
 import LeftImage from './components/LeftImage';
 import Bios from './components/Bios';
 import  AboutMe from './components/AboutMe';
-import Services from './components/services';
+import Services from './components/Services';
+import Pricing from './components/Pricing';
+import Experience from './components/Experience';
+import Education from './components/Education';
+import Skills from './components/Skills.jsx';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -26,6 +31,11 @@ function App() {
         <Bios />
         <AboutMe />
         <Services />
+        <Pricing />
+        <Experience/>
+        <Education/>
+        <Skills/>
+        <Contact/>
       </div>
     </div>
   );
