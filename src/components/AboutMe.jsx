@@ -14,25 +14,24 @@ export default () => {
                     <div className="col">
                         <div className="single-post-text">
                             <p>
-                                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc
-                                augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                                Few years ago I started out as a 3D artist creating stunning visual effect and motion graphics
+                                for Films and commercials, down the line I fell in love with software in general and always wondered how they worked.
                             </p>
                         </div>
                     </div>
                     <div className="col">
                         <div className="single-post-text">
                             <p>
-                                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc
-                                augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                                After two years of working in the wold of visual effects I was introduced to python by a friend after I asked him
+                                what will be the language of choice when it came to writing desktop applications.
                             </p>
                         </div>
                     </div>
                     <div className="col col-full">
                         <div className="single-post-text">
                             <p>
-                                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc
-                                augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero,
-                                sodales nec, volutpat a, suscipit non, turpis.
+                                After few weeks of learning python I decided to attend a boot camp that was organized by a company named Andela, here
+                                I was introduced to the world of web development and ever since then I've been a full stack web developer.
                             </p>
                         </div>
                     </div>
@@ -41,11 +40,11 @@ export default () => {
                 <div className="info-list">
                     <ul>
                         <li><strong>Age:</strong> 24</li>
-                        <li><strong>Residence:</strong> USA</li>
+                        <li><strong>Residence:</strong> NG</li>
                         <li><strong>Freelance:</strong> Available</li>
-                        <li><strong>Address:</strong> San Francisco</li>
-                        <li><strong>Phone:</strong> +1 256 254 84 56</li>
-                        <li><strong>E-mail:</strong> alejandroa@gmail.com</li>
+                        <li><strong>Address:</strong> Bayo Oyewale Street</li>
+                        <li><strong>Phone:</strong> +234 8081008437</li>
+                        <li><strong>E-mail:</strong> chukwuemekaifeora@gmail.com</li>
                     </ul>
                 </div>
 
