@@ -33,9 +33,9 @@ function App() {
         {/*<Services />*/}
         {/*<Pricing />*/}
         <Experience/>
-        <Education/>
-        <Skills/>
-        <Contact/>
+        {/*<Education/>*/}
+        {/*<Skills/>*/}
+        {/*<Contact/>*/}
       </div>
     </div>
   );

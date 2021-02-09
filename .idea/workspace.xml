@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1cfd1cda-ecd8-4dd6-9b07-432d45464ae0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Experience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +101,7 @@
       <workItem from="1582591746639" duration="1918000" />
       <workItem from="1582659220963" duration="1587000" />
       <workItem from="1582666000285" duration="324000" />
-      <workItem from="1612884960592" duration="1646000" />
+      <workItem from="1612884960592" duration="2017000" />
     </task>
     <task id="LOCAL-00001" summary="done with components">
       <created>1582593293355</created>
@@ -147,7 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done with components" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with components" />
+    <MESSAGE value="removed some components" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed some components" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1579" height="94" key="GridCell.Tab.0.bottom" timestamp="1612885502739">
