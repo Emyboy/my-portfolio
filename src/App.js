@@ -30,8 +30,8 @@ function App() {
         <LeftImage />
         <Bios />
         <AboutMe />
-        <Services />
-        <Pricing />
+        {/*<Services />*/}
+        {/*<Pricing />*/}
         <Experience/>
         <Education/>
         <Skills/>

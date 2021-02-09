@@ -11,27 +11,27 @@ export default () => {
                 </div>
 
                 <div className="cols">
-                    <div className="col">
-                        <div className="single-post-text">
-                            <p>
-                                Few years ago I started out as a 3D artist creating stunning visual effect and motion graphics
-                                for Films and commercials, down the line I fell in love with software in general and always wondered how they worked.
-                            </p>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="single-post-text">
-                            <p>
-                                After two years of working in the wold of visual effects I was introduced to python by a friend after I asked him
-                                what will be the language of choice when it came to writing desktop applications.
-                            </p>
-                        </div>
-                    </div>
+                    {/*<div className="col">*/}
+                    {/*    <div className="single-post-text">*/}
+                    {/*        <p>*/}
+                    {/*            Few years ago I started out as a 3D artist creating stunning visual effect and motion graphics*/}
+                    {/*            for Films and commercials, down the line I fell in love with software in general and always wondered how they worked.*/}
+                    {/*        </p>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
+                    {/*<div className="col">*/}
+                    {/*    <div className="single-post-text">*/}
+                    {/*        <p>*/}
+                    {/*            After two years of working in the wold of visual effects I was introduced to python by a friend after I asked him*/}
+                    {/*            what will be the language of choice when it came to writing desktop applications.*/}
+                    {/*        </p>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
                     <div className="col col-full">
                         <div className="single-post-text">
                             <p>
-                                After few weeks of learning python I decided to attend a boot camp that was organized by a company named Andela, here
-                                I was introduced to the world of web development and ever since then I've been a full stack web developer.
+                                Hi there, I am a self-taught as you will see I have hands-on experience building scalable, dynamic, and
+                                secure web applications. My strengths are building beautiful and interactive user interfaces and, amazing user experience.
                             </p>
                         </div>
                     </div>

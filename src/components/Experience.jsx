@@ -16,16 +16,19 @@ export default () => {
 
                         <div className="owl-stage-outer">
                             <div className="owl-stage"
-                                 style={{transform: "translate3d(0px, 0px, 0px)", transition: "all 0s ease 0s", width: "1185px"}}>
+                                 // style={{transform: "translate3d(0px, 0px, 0px)", transition: "all 0s ease 0s", width: "1185px"}}
+                                // style={{ display: 'flex' }}
+                            >
                                 <div className="owl-item active" style={{width: "256.113px", marginRight: "40px"}}>
                                     <div className="item">
                                         <div className="resume-item active">
                                             <div className="date">Present</div>
-                                            <div className="name">The Turin <br/>Olympics</div>
+                                            <div className="name">Meet<br/>Kumba</div>
                                             <div className="single-post-text">
                                                 <p>
-                                                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed
-                                                    fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+                                                    Kumba is a (suite of business tools) one stop solution for
+                                                    F&B businesses that provides a complete online ordering and
+                                                    engagement solution for brands across channels.
                                                 </p>
                                             </div>
                                         </div>
@@ -35,44 +38,17 @@ export default () => {
                                     <div className="item">
                                         <div className="resume-item">
                                             <div className="date">2016-2018</div>
-                                            <div className="name">Red <br/>Drifting</div>
+                                            <div className="name">Sheruta <br/>NG</div>
                                             <div className="single-post-text">
                                                 <p>
-                                                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed
-                                                    fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+                                                    Why use sheruta? Have access to hundreds of potential apartments, earn an alternative source of income.
+                                                    All possible flatmates are verified ensuring your safety.
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="owl-item active"  style={{width: "256.113px", marginRight: "40px"}}>
-                                    <div className="item">
-                                        <div className="resume-item">
-                                            <div className="date">2014-2016</div>
-                                            <div className="name">World <br/>Economy</div>
-                                            <div className="single-post-text">
-                                                <p>
-                                                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed
-                                                    fringilla mauris sit amet nibh. Donec sodales sagittis magna.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="owl-item" style={{width: "256.113px", marginRight: "40px"}}>
-                                    <div className="item">
-                                        <div className="resume-item">
-                                            <div className="date">2012-2014</div>
-                                            <div className="name">Art Director <br/>Facebook</div>
-                                            <div className="single-post-text">
-                                                <p>
-                                                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed
-                                                    fringilla mauris sit amet nibh. Donec sodales sagittis magna.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                         <div className="owl-nav disabled">
