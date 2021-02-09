@@ -42,7 +42,7 @@ export default () => {
                         <li><strong>Age:</strong> 24</li>
                         <li><strong>Residence:</strong> NG</li>
                         <li><strong>Freelance:</strong> Available</li>
-                        <li><strong>Address:</strong> Bayo Oyewale Street</li>
+                        <li><strong>Locaton:</strong> Abuja</li>
                         <li><strong>Phone:</strong> +234 8081008437</li>
                         <li><strong>E-mail:</strong> chukwuemekaifeora@gmail.com</li>
                     </ul>
