@@ -20,20 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cfd1cda-ecd8-4dd6-9b07-432d45464ae0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/css/emy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LeftImage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LeftImage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/layout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>owl.vi</find>
-      <find>joe</find>
-      <find>style=&quot;</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +99,7 @@
       <workItem from="1582591746639" duration="1918000" />
       <workItem from="1582659220963" duration="1587000" />
       <workItem from="1582666000285" duration="324000" />
-      <workItem from="1612884960592" duration="2017000" />
+      <workItem from="1612884960592" duration="4387000" />
     </task>
     <task id="LOCAL-00001" summary="done with components">
       <created>1582593293355</created>

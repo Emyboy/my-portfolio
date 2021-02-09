@@ -10,3 +10,10 @@
 .owl-item{
     margin-top: 30px !important;
 }
+
+.background-img {
+    background-repeat: no-repeat;
+    /*background-image: url("./src/css/emy.jpg");*/
+    background-position: 10% 51%;
+    background-size: contain;
+}
